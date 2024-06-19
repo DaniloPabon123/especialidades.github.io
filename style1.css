@@ -1,0 +1,105 @@
+body{
+background-color: aqua;
+margin: 0%;
+padding: 0;
+}
+
+.boton-redireccion{
+    background-color: rgb(255, 0, 140);
+    border: none;
+    color: aliceblue;
+    padding: 11px 8px;
+    text-decoration: none;
+    font-size: 0.7rem;
+    border-radius: px;
+    font-family: sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppons:wght@400;500;600;700;800&display=swap");
+*{
+    font-family: "Poppins", sans-serif;
+}
+.services {
+    padding: 80px 0;
+}
+.bg-car1{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/voley.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car2{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/banda.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car3{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/bastoneras.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.services{
+    padding: 30px 0;
+}
+.services {
+    padding: 80px 0;
+}
+.bg-car4{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/laboratorio\ infor.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car5{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/CONTA.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car6{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/laboratorio\ cien.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.services{
+    padding: 30px 0;
+}
+.bg-car15{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/deporte.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car14{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(img/fondocole4.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
